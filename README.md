@@ -25,7 +25,7 @@ Look at the schematics for more informations.
 <img src="https://raw.githubusercontent.com/hallard/WeMos-RFLink/master/WeMos-RFLink-top.png" alt="Top" width="40%" height="40%">&nbsp;
 <img src="https://raw.githubusercontent.com/hallard/WeMos-RFLink/master/WeMos-RFLink-bot.png" alt="Bottom" width="40%" height="40%">&nbsp; 
 
-You can order the PCB of this board v1.0 at [OSHPARK][3]
+You can order the PCB of this board v1.1 at [OSHPARK][3]
 
 ### Assembled boards
 
