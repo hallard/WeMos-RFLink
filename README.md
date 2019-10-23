@@ -1,4 +1,4 @@
-RFLink ESP8266 WeMos Shield
+Do you want to turn on / off your TV, AirCon (AC) using Amazon Alexa? Checkout my latest project https://irdevkit.com/RFLink ESP8266 WeMos Shield
 ============================
 
 This shield is used to hold [RFLink][4] Software with WeMos ESP8266 boards it has just few minimal features.
@@ -31,11 +31,11 @@ You can order the PCB of this board v1.1 at [OSHPARK][3]
 
 I'm currently waiting for boards from OSHPARK
 
-##License WeMos-RFLink
+## License WeMos-RFLink
 
 You can do whatever you like with this design.
 
-##Misc
+## Misc
 See news and other projects on my [blog][2] 
  
 [1]: http://www.wemos.cc/wiki/doku.php?id=en:d1_mini
